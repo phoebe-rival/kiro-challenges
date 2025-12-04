@@ -1,0 +1,7 @@
+{
+  "KiroChallengesStack": {
+    "TableName": "events",
+    "EventsAPIEndpoint9A14C702": "https://dz8jlmj7je.execute-api.us-east-1.amazonaws.com/prod/",
+    "APIEndpoint": "https://dz8jlmj7je.execute-api.us-east-1.amazonaws.com/prod/"
+  }
+}

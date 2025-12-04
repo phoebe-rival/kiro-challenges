@@ -1,0 +1,175 @@
+{
+  "mcpServers": {
+    "aws-docs": {
+      "command": "uvx",
+      "args": ["awslabs.aws-documentation-mcp-server@latest"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-kb-retrieval": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-kb-retrieval"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-sagemaker": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-sagemaker"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-bedrock": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-bedrock"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-cdk": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-cdk"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-cloudformation": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-cloudformation"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-dynamodb": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-dynamodb"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-elasticache": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-elasticache"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-glue": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-glue"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-codebuild": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-codebuild"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-support": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-support"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-sns": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-sns"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-sqs": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-sqs"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-stepfunctions": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-stepfunctions"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-location": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-location"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-cloudwatch": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-cloudwatch"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-cost-explorer": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-cost-explorer"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-healthimaging": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-healthimaging"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "aws-healthlake": {
+      "command": "uvx",
+      "args": ["mcp-server-aws-healthlake"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
